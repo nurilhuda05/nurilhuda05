@@ -8,13 +8,18 @@ My name is Muhammad Nuril Huda and I'm a Informatics Engineering Student, from <
 - 🌱 Always eager to improve problem-solving and analytical skills
 
 ## Tech Stack
-- **Programming Languages**
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=php,java,css,python"/>
+
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=php,java,css,python" />
-- **Frameworks**
-![My Skills](https://skillicons.dev/icons?i=laravel)
 
-- **Database**
-![My Skills](https://skillicons.dev/icons?i=mysql,postgres)
+### Frameworks
+<img src="https://skillicons.dev/icons?i=laravel" />
 
-- **Tools**
-![My Skills](https://skillicons.dev/icons?i=vscode,github) <img src="img/dbeaver.png" width="48"/>
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+
+### Tools
+  <img src="https://skillicons.dev/icons?i=vscode,github" />
+  <img src="img/dbeaver.png" width="48" alt="DBeaver" />
