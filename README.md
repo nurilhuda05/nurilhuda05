@@ -1,13 +1,13 @@
-# Hey <img src="img/Dada.gif" width="50"/> What's up?
+# **Hey <img src="img/Dada.gif" width="50"/> What's up?**
 My name is Muhammad Nuril Huda and I'm a Informatics Engineering Student, from <img src="img/flag.png" width="17" /> **Indonesia**.
 
-## About Me
+## **About Me**
 - 🎓 Informatics Engineering Student at Politeknik Negeri Malang
 - 📊 Interested in Data Analytics and Web Development
 - 💻 Currently learning Python, SQL, Laravel, and Git
 - 🌱 Always eager to improve problem-solving and analytical skills
 
-## Tech Stack
+## **Tech Stack**
 
 ### Programming Languages
 <img src="https://skillicons.dev/icons?i=php,java,css,python" />
@@ -21,5 +21,5 @@ My name is Muhammad Nuril Huda and I'm a Informatics Engineering Student, from <
 ### Tools
   <img src="https://skillicons.dev/icons?i=vscode,github" /> <img src="img/dbeaver.png" width="48" />
 
-## Contact
+## **Contact**
 [<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/mnuriilhuda/)
